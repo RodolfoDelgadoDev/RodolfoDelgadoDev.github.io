@@ -1,3 +1,6 @@
 title: "Rodolfo Delgado"
 author: "Rodolfo Delgado"
+show_excerpts: false
+show_frame: false
+show_sidebar: false
 theme: jekyll-theme-midnight
