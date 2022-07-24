@@ -1,5 +1,4 @@
-theme: jekyll-theme-midnight
-name: "Rodolfo Delgado"
-title-heading: false
-title: null
+title: "Rodolfo Delgado"
 author: "Rodolfo Delgado"
+description: "Per web"
+theme: jekyll-theme-midnight
