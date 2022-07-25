@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## About me
+
+Hello!
+
+![giphy](https://user-images.githubusercontent.com/77943864/180681617-c56024b3-010c-4060-841d-3c3f5ca4f2e9.gif)
 
 You can use the [editor on GitHub](https://github.com/Ro8s/Ro8s.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
